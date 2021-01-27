@@ -915,3 +915,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 13ms (Views: 5.8ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 73.173.27.73 at 2021-01-27 00:32:05 +0000
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (1.1ms)
+Completed 200 OK in 14ms (Views: 5.6ms | ActiveRecord: 0.0ms)
+
+
